@@ -1,193 +1,245 @@
 {
-  "wallpapers": [
-    "kuromi/1.jpg",
-    "kuromi/2.jpg",
-    "kuromi/3.jpg",
-    "kuromi/4.jpg",
-    "kuromi/5.jpg",
-    "kuromi/6.jpg",
-
-    "kuromi/8.jpg",
-    "kuromi/9.jpg",
-    "kuromi/10.jpg",
-    "kuromi/11.jpg",
-    "kuromi/12.jpg",
-    "kuromi/13.jpg",
-    "kuromi/14.jpg",
-    "kuromi/15.jpg",
-    "kuromi/16.jpg",
-    "kuromi/17.jpg",
-    "kuromi/18.jpg",
-    "kuromi/19.jpg",
-    "kuromi/20.jpg",
-    "kuromi/21.jpg",
-    "kuromi/22.jpg",
-    "kuromi/23.jpg",
-    "kuromi/24.jpg",
-    "kuromi/25.jpg",
-    "kuromi/26.jpg",
-    "kuromi/27.jpg",
-    "kuromi/28.jpg",
-    "kuromi/29.jpg",
-    "kuromi/30.jpg",
-    "kuromi/31.jpg",
-    "kuromi/32.jpg",
-    "kuromi/33.jpg",
-    "kuromi/34.jpg",
-    "kuromi/35.jpg",
-    "kuromi/36.jpg",
-    "kuromi/37.jpg",
-    "kuromi/38.jpg",
-    "kuromi/39.jpg",
-    "kuromi/40.jpg",
-    "kuromi/41.jpg",
-    "kuromi/42.jpg",
-    "kuromi/43.jpg",
-    "kuromi/44.jpg",
-    "kuromi/45.jpg",
-    "kuromi/46.jpg",
-    "kuromi/47.jpg",
-    "kuromi/48.jpg",
-    "kuromi/49.jpg",
-    "kuromi/50.jpg",
-    "kuromi/51.jpg",
-    "kuromi/52.jpg",
-    "kuromi/53.jpg",
-    "kuromi/54.jpg",
-    "kuromi/55.jpg",
-    "kuromi/56.jpg",
-    "kuromi/57.jpg",
-    "kuromi/58.jpg",
-    "kuromi/59.jpg",
-    "kuromi/60.jpg",
-    "kuromi/61.jpg",
-    "kuromi/62.jpg",
-    "kuromi/63.jpg",
-    "kuromi/64.jpg",
-    "kuromi/65.jpg",
-    "kuromi/66.jpg",
-    "kuromi/67.jpg",
-    "kuromi/68.jpg",
-    "kuromi/69.jpg",
-    "kuromi/70.jpg",
-    "kuromi/71.jpg",
-    "kuromi/72.jpg",
-    "kuromi/73.jpg",
-    "kuromi/74.jpg",
-    "kuromi/75.jpg",
-    "kuromi/76.jpg",
-    "kuromi/77.jpg",
-    "kuromi/78.jpg",
-    "kuromi/79.jpg",
-    "kuromi/80.jpg",
-    "kuromi/81.jpg"
-  ],
-  "live_wallpapers": [
-    {
-      "video": "live_wallpapers/1.mp4",
-      "thumbnail": "live_wallpapers/1.jpg"
-    },
-    {
-      "video": "live_wallpapers/2.mp4",
-      "thumbnail": "live_wallpapers/2.jpg"
-    },
-    {
-      "video": "live_wallpapers/3.mp4",
-      "thumbnail": "live_wallpapers/3.jpg"
-    },
-    {
-      "video": "live_wallpapers/4.mp4",
-      "thumbnail": "live_wallpapers/4.jpg"
-    },
-    {
-      "video": "live_wallpapers/5.mp4",
-      "thumbnail": "live_wallpapers/5.jpg"
-    },
-    {
-      "video": "live_wallpapers/6.mp4",
-      "thumbnail": "live_wallpapers/6.jpg"
-    },
-    {
-      "video": "live_wallpapers/7.mp4",
-      "thumbnail": "live_wallpapers/7.jpg"
-    },
-    {
-      "video": "live_wallpapers/8.mp4",
-      "thumbnail": "live_wallpapers/8.jpg"
-    },
-    {
-      "video": "live_wallpapers/9.mp4",
-      "thumbnail": "live_wallpapers/9.jpg"
-    },
-    {
-      "video": "live_wallpapers/10.mp4",
-      "thumbnail": "live_wallpapers/10.jpg"
-    },
-    {
-      "video": "live_wallpapers/11.mp4",
-      "thumbnail": "live_wallpapers/11.jpg"
-    },
-    {
-      "video": "live_wallpapers/12.mp4",
-      "thumbnail": "live_wallpapers/12.jpg"
-    },
-    {
-      "video": "live_wallpapers/13.mp4",
-      "thumbnail": "live_wallpapers/13.jpg"
-    },
-    {
-      "video": "live_wallpapers/14.mp4",
-      "thumbnail": "live_wallpapers/14.jpg"
-    },
-    {
-      "video": "live_wallpapers/15.mp4",
-      "thumbnail": "live_wallpapers/15.jpg"
-    },
-    {
-      "video": "live_wallpapers/16.mp4",
-      "thumbnail": "live_wallpapers/16.jpg"
+    "wallpapers": [
+        "kuromi/1.jpg",
+        "kuromi/2.jpg",
+        "kuromi/3.jpg",
+        "kuromi/4.jpg",
+        "kuromi/5.jpg",
+        "kuromi/6.jpg",
+        "kuromi/8.jpg",
+        "kuromi/9.jpg",
+        "kuromi/10.jpg",
+        "kuromi/11.jpg",
+        "kuromi/12.jpg",
+        "kuromi/13.jpg",
+        "kuromi/14.jpg",
+        "kuromi/15.jpg",
+        "kuromi/16.jpg",
+        "kuromi/17.jpg",
+        "kuromi/18.jpg",
+        "kuromi/19.jpg",
+        "kuromi/20.jpg",
+        "kuromi/21.jpg",
+        "kuromi/22.jpg",
+        "kuromi/23.jpg",
+        "kuromi/24.jpg",
+        "kuromi/25.jpg",
+        "kuromi/26.jpg",
+        "kuromi/27.jpg",
+        "kuromi/28.jpg",
+        "kuromi/29.jpg",
+        "kuromi/30.jpg",
+        "kuromi/31.jpg",
+        "kuromi/32.jpg",
+        "kuromi/33.jpg",
+        "kuromi/34.jpg",
+        "kuromi/35.jpg",
+        "kuromi/36.jpg",
+        "kuromi/37.jpg",
+        "kuromi/38.jpg",
+        "kuromi/39.jpg",
+        "kuromi/40.jpg",
+        "kuromi/41.jpg",
+        "kuromi/42.jpg",
+        "kuromi/43.jpg",
+        "kuromi/44.jpg",
+        "kuromi/45.jpg",
+        "kuromi/46.jpg",
+        "kuromi/47.jpg",
+        "kuromi/48.jpg",
+        "kuromi/49.jpg",
+        "kuromi/50.jpg",
+        "kuromi/51.jpg",
+        "kuromi/52.jpg",
+        "kuromi/53.jpg",
+        "kuromi/54.jpg",
+        "kuromi/55.jpg",
+        "kuromi/56.jpg",
+        "kuromi/57.jpg",
+        "kuromi/58.jpg",
+        "kuromi/59.jpg",
+        "kuromi/60.jpg",
+        "kuromi/61.jpg",
+        "kuromi/62.jpg",
+        "kuromi/63.jpg",
+        "kuromi/64.jpg",
+        "kuromi/65.jpg",
+        "kuromi/66.jpg",
+        "kuromi/67.jpg",
+        "kuromi/68.jpg",
+        "kuromi/69.jpg",
+        "kuromi/70.jpg",
+        "kuromi/71.jpg",
+        "kuromi/72.jpg",
+        "kuromi/73.jpg",
+        "kuromi/74.jpg",
+        "kuromi/75.jpg",
+        "kuromi/76.jpg",
+        "kuromi/77.jpg",
+        "kuromi/78.jpg",
+        "kuromi/79.jpg",
+        "kuromi/80.jpg",
+        "kuromi/81.jpg",
+        "kuromi/82.jpg",
+        "kuromi/83.jpg",
+        "kuromi/84.jpg",
+        "kuromi/84.png",
+        "kuromi/85.png",
+        "kuromi/86.jpg",
+        "kuromi/86.png",
+        "kuromi/89.png",
+        "kuromi/91.png",
+        "kuromi/92.png",
+        "kuromi/93.png",
+        "kuromi/94.png",
+        "kuromi/95.jpg",
+        "kuromi/96.jpg",
+        "kuromi/97.png",
+        "kuromi/98.png",
+        "kuromi/99.png",
+        "kuromi/100.jpg",
+        "kuromi/101.jpg",
+        "kuromi/102.png",
+        "kuromi/103.jpg",
+        "kuromi/104.png",
+        "kuromi/105.png",
+        "kuromi/106.png",
+        "kuromi/107.jpg",
+        "kuromi/108.jpg",
+        "kuromi/109.jpg",
+        "kuromi/110.jpg",
+        "kuromi/111.jpg",
+        "kuromi/112.jpg",
+        "kuromi/113.jpg",
+        "kuromi/114.jpg",
+        "kuromi/115.jpg",
+        "kuromi/116.jpg",
+        "kuromi/117.png",
+        "kuromi/118.png",
+        "kuromi/119.jpg",
+        "kuromi/120.png",
+        "kuromi/121.jpg",
+        "kuromi/122.png",
+        "kuromi/123.jpg",
+        "kuromi/124.jpg",
+        "kuromi/125.jpg",
+        "kuromi/126.jpg",
+        "kuromi/127.png",
+        "kuromi/128.jpg",
+        "kuromi/129.png",
+        "kuromi/130.png",
+        "kuromi/131.png",
+        "kuromi/132.jpg",
+        "kuromi/133.jpg",
+        "kuromi/134.jpg",
+        "kuromi/135.jpg"
+    ],
+    "live_wallpapers": [
+        {
+            "video": "live_wallpapers/1.mp4",
+            "thumbnail": "live_wallpapers/1.jpg"
+        },
+        {
+            "video": "live_wallpapers/2.mp4",
+            "thumbnail": "live_wallpapers/2.jpg"
+        },
+        {
+            "video": "live_wallpapers/3.mp4",
+            "thumbnail": "live_wallpapers/3.jpg"
+        },
+        {
+            "video": "live_wallpapers/4.mp4",
+            "thumbnail": "live_wallpapers/4.jpg"
+        },
+        {
+            "video": "live_wallpapers/5.mp4",
+            "thumbnail": "live_wallpapers/5.jpg"
+        },
+        {
+            "video": "live_wallpapers/6.mp4",
+            "thumbnail": "live_wallpapers/6.jpg"
+        },
+        {
+            "video": "live_wallpapers/7.mp4",
+            "thumbnail": "live_wallpapers/7.jpg"
+        },
+        {
+            "video": "live_wallpapers/8.mp4",
+            "thumbnail": "live_wallpapers/8.jpg"
+        },
+        {
+            "video": "live_wallpapers/9.mp4",
+            "thumbnail": "live_wallpapers/9.jpg"
+        },
+        {
+            "video": "live_wallpapers/10.mp4",
+            "thumbnail": "live_wallpapers/10.jpg"
+        },
+        {
+            "video": "live_wallpapers/11.mp4",
+            "thumbnail": "live_wallpapers/11.jpg"
+        },
+        {
+            "video": "live_wallpapers/12.mp4",
+            "thumbnail": "live_wallpapers/12.jpg"
+        },
+        {
+            "video": "live_wallpapers/13.mp4",
+            "thumbnail": "live_wallpapers/13.jpg"
+        },
+        {
+            "video": "live_wallpapers/14.mp4",
+            "thumbnail": "live_wallpapers/14.jpg"
+        },
+        {
+            "video": "live_wallpapers/15.mp4",
+            "thumbnail": "live_wallpapers/15.jpg"
+        },
+        {
+            "video": "live_wallpapers/16.mp4",
+            "thumbnail": "live_wallpapers/16.jpg"
+        }
+    ],
+    "keyboards": [
+        "keyboards/1.jpg",
+        "keyboards/2.jpg",
+        "keyboards/3.jpg",
+        "keyboards/4.jpg",
+        "keyboards/5.jpg",
+        "keyboards/6.jpg",
+        "keyboards/7.jpg",
+        "keyboards/8.jpg",
+        "keyboards/9.jpg",
+        "keyboards/10.jpg",
+        "keyboards/11.jpg",
+        "keyboards/12.jpg",
+        "keyboards/13.jpg",
+        "keyboards/14.jpg",
+        "keyboards/15.jpg",
+        "keyboards/16.jpg",
+        "keyboards/17.jpg"
+    ],
+    "widgets": {
+        "calendar": [
+            "widgets/4.jpg",
+            "widgets/1.jpg",
+            "widgets/2.png",
+            "widgets/3.jpeg",
+            "widgets/5.png"
+        ],
+        "clock": [
+            "widgets/1.jpg",
+            "widgets/3.jpeg",
+            "widgets/5.png",
+            "widgets/4.jpg",
+            "widgets/2.png"
+        ],
+        "digital_clock": [
+            "widgets/2.png",
+            "widgets/4.jpg",
+            "widgets/3.jpeg",
+            "widgets/5.png",
+            "widgets/1.jpg"
+        ]
     }
-  ],
-  "keyboards": [
-    "keyboards/1.jpg",
-    "keyboards/2.jpg",
-    "keyboards/3.jpg",
-    "keyboards/4.jpg",
-    "keyboards/5.jpg",
-    "keyboards/6.jpg",
-    "keyboards/7.jpg",
-    "keyboards/8.jpg",
-    "keyboards/9.jpg",
-    "keyboards/10.jpg",
-    "keyboards/11.jpg",
-    "keyboards/12.jpg",
-    "keyboards/13.jpg",
-    "keyboards/14.jpg",
-    "keyboards/15.jpg",
-    "keyboards/16.jpg",
-    "keyboards/17.jpg"
-  ],
-  "widgets": {
-    "calendar": [
-      "widgets/4.jpg",
-      "widgets/1.jpg",
-      "widgets/2.png",
-      "widgets/3.jpeg",
-      "widgets/5.png"
-    ],
-    "clock": [
-      "widgets/1.jpg",
-      "widgets/3.jpeg",
-      "widgets/5.png",
-      "widgets/4.jpg",
-      "widgets/2.png"
-    ],
-    "digital_clock": [
-      "widgets/2.png",
-      "widgets/4.jpg",
-      "widgets/3.jpeg",
-      "widgets/5.png",
-      "widgets/1.jpg"
-    ]
-  }
 }
